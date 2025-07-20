@@ -1,0 +1,6 @@
+0 - local computer
+1 - local intranet
+2 - trusted sites
+3 - internet
+4 - restricted sites
+
