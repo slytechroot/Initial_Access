@@ -9,5 +9,5 @@ Consider these zones for the Windows SmartScreen and Office Protected View which
 
 Files that are emailed from an internal email account via a compromised Exchange email account are not tagged with the Zone Identifier above.
 
-
+To be continued....
 
