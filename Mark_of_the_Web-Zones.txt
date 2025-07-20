@@ -1,6 +1,10 @@
+--> Zone Identifiers <--
 0 - local computer
 1 - local intranet
 2 - trusted sites
 3 - internet
 4 - restricted sites
 
+Consider these zones for the Windows SmartScreen and Office Protected View which launch warning pop-ups on the users' computers and will be additionally scrutinized by the user.
+
+Files that are emailed from an internal email account via a compromised Exchange email account are not tagged with the Zone Identifier above.
